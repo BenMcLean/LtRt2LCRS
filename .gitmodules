@@ -1,0 +1,3 @@
+[submodule "Wav.Net"]
+	path = Wav.Net
+	url = https://github.com/ArcticEcho/Wav.Net

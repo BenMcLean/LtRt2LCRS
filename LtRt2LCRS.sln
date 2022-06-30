@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LtRt2LCRS", "LtRt2LCRS\LtRt2LCRS.csproj", "{5BB6DCE6-0429-47AF-9952-423722624309}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wav.Net", "Wav.Net\Wav.Net\Wav.Net.csproj", "{05BB732F-9A16-4C82-A293-9D7144997242}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5BB6DCE6-0429-47AF-9952-423722624309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BB6DCE6-0429-47AF-9952-423722624309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BB6DCE6-0429-47AF-9952-423722624309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BB732F-9A16-4C82-A293-9D7144997242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB732F-9A16-4C82-A293-9D7144997242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB732F-9A16-4C82-A293-9D7144997242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB732F-9A16-4C82-A293-9D7144997242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
