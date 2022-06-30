@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Wav.Net\Wav.Net\Wav.Net.csproj" />
+  </ItemGroup>
+
 </Project>
